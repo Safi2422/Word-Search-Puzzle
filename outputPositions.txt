@@ -1,0 +1,11 @@
+
+Word 'WEEK' Start From (3, 8) End At (6, 5) 
+Word 'FIND' Start From (4, 2) End At (7, 5) 
+Word 'RANDOM' Start From (10, 7) End At (5, 7) 
+Word 'SLEUTH' Start From (4, 10) End At (9, 10) 
+Word 'BACKWARD' Start From (1, 8) End At (8, 1) 
+Word 'VERTICAL' Start From (5, 8) End At (12, 8) 
+Word 'DIAGONAL' Start From (1, 0) End At (8, 0) 
+Word 'WIKIPEDIA' Start From (0, 10) End At (0, 2) 
+Word 'HORIZONTAL' Start From (1, 12) End At (10, 12) 
+Word 'WORDSEARCH' Start From (10, 9) End At (1, 9) 
